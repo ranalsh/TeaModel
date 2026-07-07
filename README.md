@@ -25,7 +25,7 @@ The model was created using **Google Teachable Machine** and is used through a P
 
 ## Project Files
 
-* `model.keras` – The trained image classification model.
+* `keras_model.h5` – The trained image classification model.
 * `labels.txt` – Contains the class labels.
 * `predict.py` – Python script used to classify an input image.
 * `README.md` – Project documentation.
